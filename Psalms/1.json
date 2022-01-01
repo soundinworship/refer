@@ -1,4 +1,5 @@
-
+{
+          "songs" : [
 {
           "id": "psalm1msal",
           "title": "Night and Day (Psalm 1)",
@@ -16,4 +17,6 @@
           "scripture": "rand",
           "genre": "contemporary"
     
+}
+                    ]
 }
