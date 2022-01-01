@@ -1,9 +1,19 @@
+
 {
           "id": "psalm1msal",
           "title": "Night and Day (Psalm 1)",
           "author": "My Soul Among Lions",
           "link": "https:\/\/www.youtube.com\/watch?v=ovws4E8zMNg&t=112s",
           "scripture": "Psalm 1",
+          "genre": "contemporary"
+    
+},
+{
+          "id": "psalm1rand",
+          "title": "rand",
+          "author": "My Soul Among Lions",
+          "link": "https:\/\/www.youtube.com\/watch?v=ovws4E8zMNg&t=112s",
+          "scripture": "rand",
           "genre": "contemporary"
     
 }
