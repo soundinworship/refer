@@ -1,0 +1,20 @@
+{
+   "songs":[
+      {
+         "id":"Be a Lamp",
+         "title":"Be a Lamp",
+         "author":"Norton Hall Band",
+         "link":"_7fyOC3XY3k",
+         "scripture":"1 John 1",
+         "genre":"contemporary"
+      },
+      {
+         "id":"There Is A Fountain",
+         "title":"There Is A Fountain",
+         "author":"The Enfield Hymn Sessions",
+         "link":"u-yHiPTk7pc",
+         "scripture":"1 John 1",
+         "genre":"contemporary"
+      }
+   ]
+}
