@@ -1,0 +1,28 @@
+{
+   "songs":[
+      {
+         "id":"Magnificent, Marvelous, Matchless Love",
+         "title":"Magnificent, Marvelous, Matchless Love",
+         "author":"Matt Boswell & Matt Papa",
+         "link":"rF2wlHFOH_4",
+         "scripture":"John 15",
+         "genre":"contemporary"
+      },
+      {
+         "id":"Jesus, What A Friend For Sinners",
+         "title":"Jesus, What A Friend For Sinners",
+         "author":"Norton Hall Band",
+         "link":"5UWYh6GhESI",
+         "scripture":"John 15",
+         "genre":"contemporary"
+      },
+      {
+         "id":"Jesus, Fount Of Joy Eternal",
+         "title":"Jesus, Fount Of Joy Eternal",
+         "author":"The Trails Church",
+         "link":"x8dGbGo6-tQ",
+         "scripture":"John 15",
+         "genre":"contemporary"
+      }
+   ]
+}
