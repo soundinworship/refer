@@ -1,0 +1,28 @@
+{
+   "songs":[
+      {
+         "id":"Magnificent, Marvelous, Matchless Love",
+         "title":"Magnificent, Marvelous, Matchless Love",
+         "author":"Matt Boswell & Matt Papa",
+         "link":"rF2wlHFOH_4",
+         "scripture":"Ephesians 2",
+         "genre":"contemporary"
+      },
+      {
+         "id":"All I Have is Christ",
+         "title":"All I Have is Christ",
+         "author":"Sovereign Grace Music",
+         "link":"ugGucoYMmKg",
+         "scripture":"Ephesians 2",
+         "genre":"contemporary"
+      },
+      {
+         "id":"Grace Greater",
+         "title":"Grace Greater",
+         "author":"Norton Hall Band",
+         "link":"viAjoOl7Wk4",
+         "scripture":"Ephesians 2",
+         "genre":"contemporary"
+      }
+   ]
+}
