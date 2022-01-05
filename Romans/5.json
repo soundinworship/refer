@@ -1,0 +1,28 @@
+{
+   "songs":[
+      {
+         "id":"Magnificent, Marvelous, Matchless Love",
+         "title":"Magnificent, Marvelous, Matchless Love",
+         "author":"Matt Boswell & Matt Papa",
+         "link":"rF2wlHFOH_4",
+         "scripture":"Romans 5",
+         "genre":"contemporary"
+      },
+      {
+         "id":"I Stand Amazed",
+         "title":"I Stand Amazed",
+         "author":"Norton Hall Band",
+         "link":"tK1AWAwqFy0",
+         "scripture":"Romans 5",
+         "genre":"contemporary"
+      },
+      {
+         "id":"In Christ Alone",
+         "title":"In Christ Alone",
+         "author":"Keith & Kristyn Getty",
+         "link":"oZuIyrwSqHY",
+         "scripture":"Romans 5",
+         "genre":"contemporary"
+      }
+   ]
+}
