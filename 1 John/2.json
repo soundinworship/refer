@@ -1,0 +1,28 @@
+{
+   "songs":[
+      {
+         "id":"Jesus Is Mine",
+         "title":"Jesus Is Mine",
+         "author":"Jordan Kauflin, Matt Merker",
+         "link":"BeUII5l0gTI",
+         "scripture":"1 John 2",
+         "genre":"contemporary"
+      },
+      {
+         "id":"Thy Works, Not Mine, O Christ",
+         "title":"Thy Works, Not Mine, O Christ",
+         "author":"The Corner Room",
+         "link":"BLc7YdN_pUo",
+         "scripture":"1 John 2",
+         "genre":"contemporary"
+      },
+      {
+         "id":"I Stand Amazed",
+         "title":"I Stand Amazed",
+         "author":"Norton Hall Band",
+         "link":"tK1AWAwqFy0",
+         "scripture":"1 John 2",
+         "genre":"contemporary"
+      }
+   ]
+}
