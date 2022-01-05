@@ -1,0 +1,28 @@
+{
+   "songs":[
+      {
+         "id":"All I Have is Christ",
+         "title":"All I Have is Christ",
+         "author":"Sovereign Grace Music",
+         "link":"ugGucoYMmKg",
+         "scripture":"Romans 6",
+         "genre":"contemporary"
+      },
+      {
+         "id":"I Stand Amazed",
+         "title":"I Stand Amazed",
+         "author":"Norton Hall Band",
+         "link":"tK1AWAwqFy0",
+         "scripture":"Romans 6",
+         "genre":"contemporary"
+      },
+      {
+         "id":"Jesus Paid It All",
+         "title":"Jesus Paid It All",
+         "author":"Fernando Ortega",
+         "link":"mNc7W8VsVMw",
+         "scripture":"Romans 6",
+         "genre":"contemporary"
+      }
+   ]
+}
