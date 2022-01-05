@@ -1,0 +1,20 @@
+{
+   "songs":[
+      {
+         "id":"In Christ Alone",
+         "title":"In Christ Alone",
+         "author":"Keith & Kristyn Getty",
+         "link":"oZuIyrwSqHY",
+         "scripture":"Galatians 3",
+         "genre":"contemporary"
+      },
+      {
+         "id":"What Wondrous Love Is This",
+         "title":"What Wondrous Love Is This",
+         "author":"Norton Hall Band",
+         "link":"dTEgXJznjBg",
+         "scripture":"Galatians 3",
+         "genre":"contemporary"
+      }
+   ]
+}
