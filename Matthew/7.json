@@ -1,0 +1,20 @@
+{
+   "songs":[
+      {
+         "id":"The Church's One Foundation",
+         "title":"The Church's One Foundation",
+         "author":"Norton Hall Band",
+         "link":"7L1zdzLqvbw",
+         "scripture":"Matthew 7",
+         "genre":"contemporary"
+      },
+      {
+         "id":"How Firm A Foundation",
+         "title":"How Firm A Foundation",
+         "author":"Norton Hall Band",
+         "link":"5UvBH9lPU1I",
+         "scripture":"Matthew 7",
+         "genre":"contemporary"
+      }
+   ]
+}
